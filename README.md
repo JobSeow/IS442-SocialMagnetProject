@@ -4,8 +4,7 @@
         IS442- Object Oriented Programming Social Magnet Project
     <br>
 </h1>
-  
- # Screenshots of application
+
 #### Project Description/Report
 ![Overview](https://github.com/JobSeow/IS442-SocialMagnetProject/blob/master/pics/1.JPG)
 ![Overview](https://github.com/JobSeow/IS442-SocialMagnetProject/blob/master/pics/2.JPG)
