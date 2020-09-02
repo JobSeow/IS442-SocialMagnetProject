@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"socialmagnet.controller"},{"l":"socialmagnet.dao"},{"l":"socialmagnet.game"},{"l":"socialmagnet.social"},{"l":"socialmagnet.view"}]

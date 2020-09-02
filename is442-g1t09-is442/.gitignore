@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings/
+target/
+target/classes
+.idea
+maven-unit-test.iml
+.classes/**
+*.class
+*.class
